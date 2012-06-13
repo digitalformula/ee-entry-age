@@ -1,0 +1,1 @@
+To install the entry_age plugin, please upload the entire entry_age folder to /system/expressionengine/third_party folder.  The plugin will be automatically activated.  Please see the plugin documentation in your ExpressionEngine plugins control panel for instructions on how to use the plugin in your templates.
